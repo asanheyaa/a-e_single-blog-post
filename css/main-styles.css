@@ -890,7 +890,7 @@ body {
 }
 @media (any-hover: hover) {
   .header-menu__link:hover {
-    color: var(--color-secondary);
+    color: #d89418;
   }
 }
 @media (max-width: 1200px) {
